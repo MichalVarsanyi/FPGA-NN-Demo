@@ -1,0 +1,14 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch CLANG as the compiler.
+   Compiling ../../../../myproject_test.cpp in debug mode
+   Compiling ../../../../firmware/myproject.cpp in debug mode
+   Generating csim.exe
+INFO: Unable to open input/predictions file, using default input.
+-0.998047 -1.27148 -0.537109 0.262695 -0.0175781 -0.0644531 -1.00391 0.842773 -0.482422 -0.368164 
+-0.998047 -1.27148 -0.537109 0.262695 -0.0175781 -0.0644531 -1.00391 0.842773 -0.482422 -0.368164 
+-0.998047 -1.27148 -0.537109 0.262695 -0.0175781 -0.0644531 -1.00391 0.842773 -0.482422 -0.368164 
+-0.998047 -1.27148 -0.537109 0.262695 -0.0175781 -0.0644531 -1.00391 0.842773 -0.482422 -0.368164 
+-0.998047 -1.27148 -0.537109 0.262695 -0.0175781 -0.0644531 -1.00391 0.842773 -0.482422 -0.368164 
+INFO: Saved inference results to file: tb_data/csim_results.log
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************

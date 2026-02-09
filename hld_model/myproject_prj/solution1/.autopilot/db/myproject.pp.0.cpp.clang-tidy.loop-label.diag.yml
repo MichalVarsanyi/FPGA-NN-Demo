@@ -1,0 +1,766 @@
+---
+MainSourceFile:  'C:/Users/varsa/Desktop/School/MIT/FPGA-NN-Demo/hld_model/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp'
+Diagnostics:     
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_1223_1:  '
+    FileOffset:      1223
+    FilePath:        'C:\Xilinx\Vitis_HLS\2024.1\common\technology\autopilot\etc\ap_int_base.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          773064
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_1223_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_676_1:  '
+    FileOffset:      676
+    FilePath:        'C:\Xilinx\Vitis_HLS\2024.1\common\technology\autopilot\etc\ap_int_ref.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          1000850
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_676_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_690_1:  '
+    FileOffset:      690
+    FilePath:        'C:\Xilinx\Vitis_HLS\2024.1\common\technology\autopilot\etc\ap_int_ref.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          1001318
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_690_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_704_1:  '
+    FileOffset:      704
+    FilePath:        'C:\Xilinx\Vitis_HLS\2024.1\common\technology\autopilot\etc\ap_int_ref.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          1001787
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_704_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_1247_1:  '
+    FileOffset:      1247
+    FilePath:        'C:\Xilinx\Vitis_HLS\2024.1\common\technology\autopilot\etc\ap_fixed_base.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          1285279
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_1247_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_27_1:  '
+    FileOffset:      27
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_types.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          1660696
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_27_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_39_1:  '
+    FileOffset:      39
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_types.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          1660934
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_39_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_56_1:  '
+    FileOffset:      56
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_types.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          1661429
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_56_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_265_1:  '
+    FileOffset:      265
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_helpers.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2244693
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_265_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_275_1:  '
+    FileOffset:      275
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_helpers.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2245080
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_275_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_286_1:  '
+    FileOffset:      286
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_helpers.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2245415
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_286_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_293_1:  '
+    FileOffset:      293
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_helpers.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2245638
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_293_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_295_2:  '
+    FileOffset:      295
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_helpers.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2245733
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_295_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_307_1:  '
+    FileOffset:      307
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_helpers.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2246097
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_307_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_309_2:  '
+    FileOffset:      309
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_helpers.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2246179
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_309_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_324_1:  '
+    FileOffset:      324
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_helpers.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2246522
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_324_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_344_1:  '
+    FileOffset:      344
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_helpers.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2246975
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_344_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_345_2:  '
+    FileOffset:      345
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_helpers.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2247020
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_345_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_360_1:  '
+    FileOffset:      360
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_helpers.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2247429
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_360_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_367_1:  '
+    FileOffset:      367
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_helpers.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2247642
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_367_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_135_1:  '
+    FileOffset:      135
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_conv1d_latency.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2257081
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_135_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_136_2:  '
+    FileOffset:      136
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_conv1d_latency.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2257165
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_136_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_157_3:  '
+    FileOffset:      157
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_conv1d_latency.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2257707
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_157_3: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_158_4:  '
+    FileOffset:      158
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_conv1d_latency.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2257791
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_158_4: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_31_1:  '
+    FileOffset:      31
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2261952
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_31_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_43_1:  '
+    FileOffset:      43
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2262205
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_43_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_57_1:  '
+    FileOffset:      57
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2262566
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_57_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_84_1:  '
+    FileOffset:      84
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2263382
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_84_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_114_1:  '
+    FileOffset:      114
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2264043
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_114_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_151_1:  '
+    FileOffset:      151
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2265188
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_151_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_167_1:  '
+    FileOffset:      167
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2265652
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_167_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_200_1:  '
+    FileOffset:      200
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2266584
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_200_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_213_2:  '
+    FileOffset:      213
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2267119
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_213_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_246_1:  '
+    FileOffset:      246
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2267982
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_246_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_255_2:  '
+    FileOffset:      255
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2268252
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_255_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_268_3:  '
+    FileOffset:      268
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2268815
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_268_3: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_275_1:  '
+    FileOffset:      275
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2269052
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_275_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_288_1:  '
+    FileOffset:      288
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2269412
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_288_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_325_1:  '
+    FileOffset:      325
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2270369
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_325_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_330_2:  '
+    FileOffset:      330
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2270489
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_330_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_331_3:  '
+    FileOffset:      331
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2270546
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_331_3: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_348_4:  '
+    FileOffset:      348
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2271146
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_348_4: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_361_1:  '
+    FileOffset:      361
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2271654
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_361_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_369_2:  '
+    FileOffset:      369
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2271798
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_369_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_405_1:  '
+    FileOffset:      405
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2272993
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_405_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_407_2:  '
+    FileOffset:      407
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2273062
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_407_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_409_3:  '
+    FileOffset:      409
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2273131
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_409_3: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_414_4:  '
+    FileOffset:      414
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2273387
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_414_4: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_427_1:  '
+    FileOffset:      427
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2273701
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_427_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_457_1:  '
+    FileOffset:      457
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2274338
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_457_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_484_1:  '
+    FileOffset:      484
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2275174
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_484_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_498_1:  '
+    FileOffset:      498
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2275516
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_498_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_514_1:  '
+    FileOffset:      514
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2275974
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_514_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_532_1:  '
+    FileOffset:      532
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2276444
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_532_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_549_1:  '
+    FileOffset:      549
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2276847
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_549_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_566_1:  '
+    FileOffset:      566
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2277242
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_566_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_596_1:  '
+    FileOffset:      596
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2277908
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_596_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_615_1:  '
+    FileOffset:      615
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2278482
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_615_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_645_1:  '
+    FileOffset:      645
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2279148
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_645_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_664_1:  '
+    FileOffset:      664
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2279702
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_664_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_694_1:  '
+    FileOffset:      694
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2280351
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_694_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_721_1:  '
+    FileOffset:      721
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2281189
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_721_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_749_1:  '
+    FileOffset:      749
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2281873
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_749_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_779_1:  '
+    FileOffset:      779
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2282558
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_779_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_808_1:  '
+    FileOffset:      808
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2283398
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_808_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_828_1:  '
+    FileOffset:      828
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2283817
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_828_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_229_1:  '
+    FileOffset:      229
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_stream.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2289871
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_229_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_236_2:  '
+    FileOffset:      236
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_stream.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2290011
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_236_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_245_3:  '
+    FileOffset:      245
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_stream.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2290276
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_245_3: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_254_4:  '
+    FileOffset:      254
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_stream.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2290470
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_254_4: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_258_5:  '
+    FileOffset:      258
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_stream.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2290563
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_258_5: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_269_6:  '
+    FileOffset:      269
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_stream.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2290889
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_269_6: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_273_7:  '
+    FileOffset:      273
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_stream.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2290999
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_273_7: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_297_1:  '
+    FileOffset:      297
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_stream.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2291965
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_297_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_301_2:  '
+    FileOffset:      301
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_stream.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2292051
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_301_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_320_1:  '
+    FileOffset:      320
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_stream.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2292727
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_320_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_211_1:  '
+    FileOffset:      211
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation_stream.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2299011
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_211_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_220_2:  '
+    FileOffset:      220
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation_stream.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2299289
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_220_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_325_1:  '
+    FileOffset:      325
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation_stream.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2302510
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_325_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_330_2:  '
+    FileOffset:      330
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation_stream.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2302652
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_330_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_338_3:  '
+    FileOffset:      338
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_activation_stream.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2302856
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_338_3: '
+  - DiagnosticName:  clang-diagnostic-error
+    Message:         'Resource with core_name: ROM_nP_BRAM pragma is ignored, because this core doesn''t exist at all '
+    FileOffset:      33
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_dense_resource.h'
+    Replacements:    
+  - DiagnosticName:  clang-diagnostic-error
+    Message:         'Resource with core_name: ROM_nP_BRAM pragma is ignored, because this core doesn''t exist at all '
+    FileOffset:      107
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_dense_resource.h'
+    Replacements:    
+  - DiagnosticName:  clang-diagnostic-error
+    Message:         'Resource with core_name: ROM_nP_BRAM pragma is ignored, because this core doesn''t exist at all '
+    FileOffset:      189
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_dense_resource.h'
+    Replacements:    
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_14_1:  '
+    FileOffset:      14
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_dense_compressed.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2329230
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_14_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_74_1:  '
+    FileOffset:      74
+    FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\firmware\nnet_utils\nnet_dense_compressed.h'
+    Replacements:    
+      - FilePath:        'C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp'
+        Offset:          2331101
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_74_1: '
+...

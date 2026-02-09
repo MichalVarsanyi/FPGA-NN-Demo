@@ -1,0 +1,424 @@
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:25755:7: warning: Added loop label VITIS_LOOP_1223_1:   [xilinx-label-all-loops]
+      for (i = 0; i < __N - 1; ++i) {
+      ^~~
+      VITIS_LOOP_1223_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:25755:7: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:26729:5: warning: Added loop label VITIS_LOOP_676_1:   [xilinx-label-all-loops]
+    for (unsigned i = low; i != high; ++i) {
+    ^~~
+    VITIS_LOOP_676_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:26729:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:26743:5: warning: Added loop label VITIS_LOOP_690_1:   [xilinx-label-all-loops]
+    for (unsigned i = low; i != high; ++i) {
+    ^~~
+    VITIS_LOOP_690_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:26743:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:26757:5: warning: Added loop label VITIS_LOOP_704_1:   [xilinx-label-all-loops]
+    for (unsigned i = low; i != high; ++i) {
+    ^~~
+    VITIS_LOOP_704_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:26757:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:28374:7: warning: Added loop label VITIS_LOOP_1247_1:   [xilinx-label-all-loops]
+      for (i = 0; i < __N - 1; ++i) {
+      ^~~
+      VITIS_LOOP_1247_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:28374:7: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:30391:9: warning: Added loop label VITIS_LOOP_27_1:   [xilinx-label-all-loops]
+        for (unsigned i = 0; i < N; i++) {
+        ^~~
+        VITIS_LOOP_27_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:30391:9: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:30403:9: warning: Added loop label VITIS_LOOP_39_1:   [xilinx-label-all-loops]
+        for (unsigned i = 0; i < N; i++) {
+        ^~~
+        VITIS_LOOP_39_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:30403:9: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:30420:9: warning: Added loop label VITIS_LOOP_56_1:   [xilinx-label-all-loops]
+        for (size_t i = 0; i < N; i++) {
+        ^~~
+        VITIS_LOOP_56_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:30420:9: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51167:5: warning: Added loop label VITIS_LOOP_265_1:   [xilinx-label-all-loops]
+    for (typename std::vector<src_T>::const_iterator i = in_begin; i != in_end; ++i) {
+    ^~~
+    VITIS_LOOP_265_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51167:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51177:5: warning: Added loop label VITIS_LOOP_275_1:   [xilinx-label-all-loops]
+    for (auto i = 0; i < SIZE; i++)
+    ^~~
+    VITIS_LOOP_275_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51177:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51188:5: warning: Added loop label VITIS_LOOP_286_1:   [xilinx-label-all-loops]
+    for (int i = 0; i < SIZE; i++) {
+    ^~~
+    VITIS_LOOP_286_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51188:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51195:5: warning: Added loop label VITIS_LOOP_293_1:   [xilinx-label-all-loops]
+    for (int i = 0; i < SIZE / res_T::size; i++) {
+    ^~~
+    VITIS_LOOP_293_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51195:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51197:9: warning: Added loop label VITIS_LOOP_295_2:   [xilinx-label-all-loops]
+        for (int j = 0; j < res_T::size; j++) {
+        ^~~
+        VITIS_LOOP_295_2: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51197:9: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51209:5: warning: Added loop label VITIS_LOOP_307_1:   [xilinx-label-all-loops]
+    for (int i = 0; i < SIZE / data_T::size; i++) {
+    ^~~
+    VITIS_LOOP_307_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51209:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51211:9: warning: Added loop label VITIS_LOOP_309_2:   [xilinx-label-all-loops]
+        for (int j = 0; j < data_T::size; j++) {
+        ^~~
+        VITIS_LOOP_309_2: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51211:9: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51226:5: warning: Added loop label VITIS_LOOP_324_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < nrows; ii++) {
+    ^~~
+    VITIS_LOOP_324_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51226:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51246:5: warning: Added loop label VITIS_LOOP_344_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < nrows; ii++) {
+    ^~~
+    VITIS_LOOP_344_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51246:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51247:9: warning: Added loop label VITIS_LOOP_345_2:   [xilinx-label-all-loops]
+        for (int jj = 0; jj < ncols; jj++) {
+        ^~~
+        VITIS_LOOP_345_2: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51247:9: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51262:5: warning: Added loop label VITIS_LOOP_360_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < N_IN; ii++) {
+    ^~~
+    VITIS_LOOP_360_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51262:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51269:5: warning: Added loop label VITIS_LOOP_367_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < N_IN; ii++) {
+    ^~~
+    VITIS_LOOP_367_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51269:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51578:5: warning: Added loop label VITIS_LOOP_135_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::out_width / CONFIG_T::n_partitions; ii++) {
+    ^~~
+    VITIS_LOOP_135_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51578:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51579:9: warning: Added loop label VITIS_LOOP_136_2:   [xilinx-label-all-loops]
+        for (int ff = 0; ff < CONFIG_T::n_filt; ff++) {
+        ^~~
+        VITIS_LOOP_136_2: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51579:9: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51600:5: warning: Added loop label VITIS_LOOP_157_3:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::out_width / CONFIG_T::n_partitions; ii++) {
+    ^~~
+    VITIS_LOOP_157_3: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51600:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51601:9: warning: Added loop label VITIS_LOOP_158_4:   [xilinx-label-all-loops]
+        for (int ff = 0; ff < CONFIG_T::n_filt; ff++) {
+        ^~~
+        VITIS_LOOP_158_4: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51601:9: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51748:2: warning: Added loop label VITIS_LOOP_31_1:   [xilinx-label-all-loops]
+ for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+ ^~~
+ VITIS_LOOP_31_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51748:2: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51760:5: warning: Added loop label VITIS_LOOP_43_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_43_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51760:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51774:5: warning: Added loop label VITIS_LOOP_57_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_57_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51774:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51801:5: warning: Added loop label VITIS_LOOP_84_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < N_TABLE; ii++) {
+    ^~~
+    VITIS_LOOP_84_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51801:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51831:5: warning: Added loop label VITIS_LOOP_114_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_114_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51831:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51868:5: warning: Added loop label VITIS_LOOP_151_1:   [xilinx-label-all-loops]
+    for (unsigned i = 0; i < CONFIG_T::exp_table_size; i++) {
+    ^~~
+    VITIS_LOOP_151_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51868:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51884:5: warning: Added loop label VITIS_LOOP_167_1:   [xilinx-label-all-loops]
+    for (unsigned i = 0; i < CONFIG_T::inv_table_size; i++) {
+    ^~~
+    VITIS_LOOP_167_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51884:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51917:5: warning: Added loop label VITIS_LOOP_200_1:   [xilinx-label-all-loops]
+    for (unsigned i = 0; i < CONFIG_T::n_slice; i++) {
+    ^~~
+    VITIS_LOOP_200_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51917:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51930:5: warning: Added loop label VITIS_LOOP_213_2:   [xilinx-label-all-loops]
+    for (unsigned i = 0; i < CONFIG_T::n_slice; i++) {
+    ^~~
+    VITIS_LOOP_213_2: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51930:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51963:5: warning: Added loop label VITIS_LOOP_246_1:   [xilinx-label-all-loops]
+    for (unsigned i = 0; i < CONFIG_T::n_slice; i++) {
+    ^~~
+    VITIS_LOOP_246_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51963:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51972:5: warning: Added loop label VITIS_LOOP_255_2:   [xilinx-label-all-loops]
+    for (unsigned i = 0; i < CONFIG_T::n_slice; i++) {
+    ^~~
+    VITIS_LOOP_255_2: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51972:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51985:5: warning: Added loop label VITIS_LOOP_268_3:   [xilinx-label-all-loops]
+    for (unsigned i = 0; i < CONFIG_T::n_slice; i++) {
+    ^~~
+    VITIS_LOOP_268_3: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51985:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51992:5: warning: Added loop label VITIS_LOOP_275_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < N_TABLE; ii++) {
+    ^~~
+    VITIS_LOOP_275_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:51992:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52005:5: warning: Added loop label VITIS_LOOP_288_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < N_TABLE; ii++) {
+    ^~~
+    VITIS_LOOP_288_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52005:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52042:5: warning: Added loop label VITIS_LOOP_325_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_slice; ii++) {
+    ^~~
+    VITIS_LOOP_325_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52042:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52047:5: warning: Added loop label VITIS_LOOP_330_2:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_slice; ii++) {
+    ^~~
+    VITIS_LOOP_330_2: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52047:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52048:9: warning: Added loop label VITIS_LOOP_331_3:   [xilinx-label-all-loops]
+        for (int jj = 0; jj < CONFIG_T::n_slice; jj++) {
+        ^~~
+        VITIS_LOOP_331_3: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52048:9: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52065:5: warning: Added loop label VITIS_LOOP_348_4:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_slice; ii++) {
+    ^~~
+    VITIS_LOOP_348_4: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52065:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52078:5: warning: Added loop label VITIS_LOOP_361_1:   [xilinx-label-all-loops]
+    for (int i = 0; i < CONFIG_T::n_slice; i++) {
+    ^~~
+    VITIS_LOOP_361_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52078:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52086:5: warning: Added loop label VITIS_LOOP_369_2:   [xilinx-label-all-loops]
+    for (int i = 1; i < CONFIG_T::n_slice; i++) {
+    ^~~
+    VITIS_LOOP_369_2: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52086:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52122:5: warning: Added loop label VITIS_LOOP_405_1:   [xilinx-label-all-loops]
+    for (signed i = 0; i < CONFIG_T::n_outer; i++) {
+    ^~~
+    VITIS_LOOP_405_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52122:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52124:2: warning: Added loop label VITIS_LOOP_407_2:   [xilinx-label-all-loops]
+ for (signed k = 0; k < CONFIG_T::n_inner; k++) {
+ ^~~
+ VITIS_LOOP_407_2: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52124:2: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52126:2: warning: Added loop label VITIS_LOOP_409_3:   [xilinx-label-all-loops]
+ for (signed j = 0; j < CONFIG_T::n_slice; j++) {
+ ^~~
+ VITIS_LOOP_409_3: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52126:2: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52131:13: warning: Added loop label VITIS_LOOP_414_4:   [xilinx-label-all-loops]
+            for (signed j = 0; j < CONFIG_T::n_slice; j++) {
+            ^~~
+            VITIS_LOOP_414_4: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52131:13: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52144:5: warning: Added loop label VITIS_LOOP_427_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < N_TABLE; ii++) {
+    ^~~
+    VITIS_LOOP_427_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52144:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52174:5: warning: Added loop label VITIS_LOOP_457_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_457_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52174:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52201:2: warning: Added loop label VITIS_LOOP_484_1:   [xilinx-label-all-loops]
+ for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+ ^~~
+ VITIS_LOOP_484_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52201:2: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52215:2: warning: Added loop label VITIS_LOOP_498_1:   [xilinx-label-all-loops]
+ for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+ ^~~
+ VITIS_LOOP_498_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52215:2: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52231:5: warning: Added loop label VITIS_LOOP_514_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_514_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52231:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52249:5: warning: Added loop label VITIS_LOOP_532_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_532_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52249:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52266:5: warning: Added loop label VITIS_LOOP_549_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_549_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52266:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52283:5: warning: Added loop label VITIS_LOOP_566_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < N_TABLE; ii++) {
+    ^~~
+    VITIS_LOOP_566_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52283:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52313:5: warning: Added loop label VITIS_LOOP_596_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_596_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52313:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52332:5: warning: Added loop label VITIS_LOOP_615_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < N_TABLE; ii++) {
+    ^~~
+    VITIS_LOOP_615_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52332:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52362:5: warning: Added loop label VITIS_LOOP_645_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_645_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52362:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52381:5: warning: Added loop label VITIS_LOOP_664_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < N_TABLE; ii++) {
+    ^~~
+    VITIS_LOOP_664_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52381:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52411:5: warning: Added loop label VITIS_LOOP_694_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_694_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52411:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52438:5: warning: Added loop label VITIS_LOOP_721_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < N_TABLE; ii++) {
+    ^~~
+    VITIS_LOOP_721_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52438:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52466:2: warning: Added loop label VITIS_LOOP_749_1:   [xilinx-label-all-loops]
+ for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+ ^~~
+ VITIS_LOOP_749_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52466:2: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52496:5: warning: Added loop label VITIS_LOOP_779_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_779_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52496:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52525:5: warning: Added loop label VITIS_LOOP_808_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_808_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52525:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52545:5: warning: Added loop label VITIS_LOOP_828_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_828_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52545:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52790:9: warning: Added loop label VITIS_LOOP_229_1:   [xilinx-label-all-loops]
+        for (int i = 0; i < N / data_T::size; i++) {
+        ^~~
+        VITIS_LOOP_229_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52790:9: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52797:13: warning: Added loop label VITIS_LOOP_236_2:   [xilinx-label-all-loops]
+            for (int j = 0; j < data_T::size; j++) {
+            ^~~
+            VITIS_LOOP_236_2: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52797:13: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52806:9: warning: Added loop label VITIS_LOOP_245_3:   [xilinx-label-all-loops]
+        for (int i = 0; i < N / data_T::size; i++) {
+        ^~~
+        VITIS_LOOP_245_3: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52806:9: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52815:13: warning: Added loop label VITIS_LOOP_254_4:   [xilinx-label-all-loops]
+            for (int j = 0; j < pack_diff; j++) {
+            ^~~
+            VITIS_LOOP_254_4: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52815:13: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52819:17: warning: Added loop label VITIS_LOOP_258_5:   [xilinx-label-all-loops]
+                for (int k = 0; k < res_T::size; k++) {
+                ^~~
+                VITIS_LOOP_258_5: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52819:17: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52830:9: warning: Added loop label VITIS_LOOP_269_6:   [xilinx-label-all-loops]
+        for (int i = 0; i < N / data_T::size; i++) {
+        ^~~
+        VITIS_LOOP_269_6: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52830:9: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52834:13: warning: Added loop label VITIS_LOOP_273_7:   [xilinx-label-all-loops]
+            for (int j = 0; j < data_T::size; j++) {
+            ^~~
+            VITIS_LOOP_273_7: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52834:13: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52858:9: warning: Added loop label VITIS_LOOP_297_1:   [xilinx-label-all-loops]
+        for (int j = 0; j < n_dupl; j++) {
+        ^~~
+        VITIS_LOOP_297_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52858:9: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52862:13: warning: Added loop label VITIS_LOOP_301_2:   [xilinx-label-all-loops]
+            for (int k = 0; k < res_T::size; k++) {
+            ^~~
+            VITIS_LOOP_301_2: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52862:13: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52881:9: warning: Added loop label VITIS_LOOP_320_1:   [xilinx-label-all-loops]
+        for (int k = 0; k < res_T::size; k++) {
+        ^~~
+        VITIS_LOOP_320_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:52881:9: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:53105:9: warning: Added loop label VITIS_LOOP_211_1:   [xilinx-label-all-loops]
+        for (unsigned j = 0; j < data_T::size; j++) {
+        ^~~
+        VITIS_LOOP_211_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:53105:9: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:53114:9: warning: Added loop label VITIS_LOOP_220_2:   [xilinx-label-all-loops]
+        for (unsigned j = 0; j < data_T::size; j++) {
+        ^~~
+        VITIS_LOOP_220_2: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:53114:9: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:53219:5: warning: Added loop label VITIS_LOOP_325_1:   [xilinx-label-all-loops]
+    for (int i = 0; i < CONFIG_T::n_in / res_T::size; i++) {
+    ^~~
+    VITIS_LOOP_325_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:53219:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:53224:9: warning: Added loop label VITIS_LOOP_330_2:   [xilinx-label-all-loops]
+        for (int i = 0; i < res_T::size; i++) {
+        ^~~
+        VITIS_LOOP_330_2: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:53224:9: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:53232:9: warning: Added loop label VITIS_LOOP_338_3:   [xilinx-label-all-loops]
+        for (int i = 1; i < res_T::size; i++) {
+        ^~~
+        VITIS_LOOP_338_3: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:53232:9: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:53814:9: error: Resource with core_name: ROM_nP_BRAM pragma is ignored, because this core doesn't exist at all  [clang-diagnostic-error]
+#pragma HLS RESOURCE variable=weights core=ROM_nP_BRAM
+        ^
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:53888:9: error: Resource with core_name: ROM_nP_BRAM pragma is ignored, because this core doesn't exist at all  [clang-diagnostic-error]
+#pragma HLS RESOURCE variable=weights core=ROM_nP_BRAM
+        ^
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:53970:9: error: Resource with core_name: ROM_nP_BRAM pragma is ignored, because this core doesn't exist at all  [clang-diagnostic-error]
+#pragma HLS RESOURCE variable=weights core=ROM_nP_BRAM
+        ^
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:54143:5: warning: Added loop label VITIS_LOOP_14_1:   [xilinx-label-all-loops]
+    for (unsigned k = 0; k < CONFIG_T::n_out; k++) {
+    ^~~
+    VITIS_LOOP_14_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:54143:5: note: FIX-IT applied suggested code changes
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:54203:9: warning: Added loop label VITIS_LOOP_74_1:   [xilinx-label-all-loops]
+        for (int im = 0; im < CONFIG_T::n_out; im++) {
+        ^~~
+        VITIS_LOOP_74_1: 
+C:\Users\varsa\Desktop\School\MIT\FPGA-NN-Demo\hld_model\myproject_prj\solution1\.autopilot\db\myproject.pp.0.cpp:54203:9: note: FIX-IT applied suggested code changes

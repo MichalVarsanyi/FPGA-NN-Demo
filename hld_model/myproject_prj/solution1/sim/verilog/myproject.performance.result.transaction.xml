@@ -1,0 +1,6 @@
+                             latency        interval
+transaction       0:              24               1
+transaction       1:              24               1
+transaction       2:              24               1
+transaction       3:              24               1
+transaction       4:              24               x
