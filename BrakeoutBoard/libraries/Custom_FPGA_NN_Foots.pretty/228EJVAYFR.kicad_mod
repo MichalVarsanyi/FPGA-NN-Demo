@@ -1,0 +1,176 @@
+(footprint "228EJVAYFR"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -4.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "8d2c98fe-7f9b-4acb-ad9c-8e24818cfb77")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "228EJVAYFR"
+		(at 0.1 4.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "22336488-6a86-44a7-a038-252b3b7e727e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.mouser.sk/ProductDetail/CTS-Electronic-Components/228EJVAYFR?qs=BJlw7L4Cy78mmDEyu8%252B4NA%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0f5efcb9-f836-4d5e-888c-bfe8238e2de5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "673d722e-7475-4481-a12e-96a011e62bf5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3.4 -3.6)
+		(end 3.4 -3.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f5493e6d-5239-4b7e-b3cd-5538ed96c6f2")
+	)
+	(fp_line
+		(start -3.4 3.6)
+		(end 3.4 3.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "53b9a9f0-acc6-4ffd-a406-fc2f61a17dbf")
+	)
+	(fp_rect
+		(start -4.2 -3.6)
+		(end 4.2 3.6)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "fd8ac431-c388-49e3-80e0-365beb868955")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.1 6 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "4db38f68-55a6-41e5-a890-f155527b8829")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at -1.75 -1.7)
+		(size 1 1)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(uuid "01034c28-c519-4ee7-beac-c16ce58387b3")
+	)
+	(pad "" np_thru_hole circle
+		(at 1.75 -1.7)
+		(size 1 1)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(uuid "a6a8e9fc-eb98-4de0-94e9-cf401bb3ef1d")
+	)
+	(pad "1" smd roundrect
+		(at -3.175 -2.4)
+		(size 1.65 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "acf303b2-f0ef-423c-bd25-f4dd2e133af8")
+	)
+	(pad "2" smd roundrect
+		(at -3.175 1)
+		(size 1.65 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "3dabed2e-48ce-4423-ad17-2676062c3ef9")
+	)
+	(pad "3" smd roundrect
+		(at -3.175 2.6)
+		(size 1.65 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "30e65abc-18b8-4c66-8999-5d04bd31b9c7")
+	)
+	(pad "4" smd roundrect
+		(at 3.175 2.6)
+		(size 1.65 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "6ba3551e-bd50-4690-86b8-18565937244b")
+	)
+	(pad "5" smd roundrect
+		(at 3.175 1)
+		(size 1.65 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "c9d06b78-a2e4-4adf-ab34-e25741652ba9")
+	)
+	(pad "6" smd roundrect
+		(at 3.175 -0.8)
+		(size 1.65 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "2513caa8-a4c7-4096-9403-f360b4a97ab8")
+	)
+	(pad "7" smd roundrect
+		(at 3.175 -2.4)
+		(size 1.65 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "91234355-c2b4-4ad2-95de-e1b0e921e352")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/libraries/3D/228EJVAYFR.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
